@@ -1,4 +1,4 @@
 File-Upload
 ===========
 
-Upload the file at domain. The client is coded in Java while the server is in PHP.
+Multiple file uploader code in Java. The server side scripting has been coded in PHP.
